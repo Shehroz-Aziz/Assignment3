@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="registration">Registration</string>
+    <string name="enter_the_username">Enter the Username</string>
+    <string name="enter_the_password">Enter the Password</string>
+    <string name="should_have_one_character_special_and_number">Should have one character, special and number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="should_be_the_same_as_password">Should be the Same as Password</string>
+    <string name="submit">Submit</string>
+    <string name="enter_data_correctly">Enter Data Correctly</string>
+    <string name="already_exists">Already Exists</string>
+    <string name="login_as_user">Login as User</string>
+    <string name="username_not_found">Username not Found</string>
+    <string name="wrong_password">Wrong Password</string>
+    <string name="already_have_an_account_login">Already Have an Account? Login</string>
+    <string name="apke_liye_aik_phool">Apke Liye Aik Phool</string>
+    <string name="login_as_manager">Login As Manager</string>
+</resources>
